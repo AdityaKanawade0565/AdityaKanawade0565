@@ -9,8 +9,8 @@
 - Worked on predictive maintenance models for aircraft engines using Python and deep learning techniques.
 
 💻 **Projects:**
-- [Social Media Analytics Dashboard](#) - Real-time analytics for YouTube and Instagram data.
-- [CheatFit Fitness Web Application](#) - ML-powered fitness app estimating body fat percentage and providing personalized diet plans.
+- [Social Media Analytics Dashboard](https://github.com/AdityaKanawade0565/Social-Media-Analytics-Dashboard-) - Real-time analytics for YouTube and Instagram data.
+- [CheatFit Fitness Web Application](https://github.com/AdityaKanawade0565/Body-fat-percentage-estimation-) - ML-powered fitness app estimating body fat percentage and providing personalized diet plans.
   and many more are there in my repository.
 
 🚀 **Technical Skills:**
